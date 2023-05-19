@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+div {
+  border: 2px solid rgb(3, 3, 3);
+  width: 600px;
+  margin: 10px auto;
+}
+.jsClass {
+  font-size: 30px;
+  color: rgb(255, 3, 3);
+}
